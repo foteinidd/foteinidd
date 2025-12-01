@@ -1,6 +1,6 @@
 ### Hi there, I'm Foteini 👋
 
-Data scientist and researcher specialising in **AI and machine learning for Earth sciences**, with expertise in **geospatial data workflows**, **scientific computing**, **data-driven modelling** and **interdisciplinary research**. Currently completing a **PhD in earthquake monitoring and forecasting** at the University of Edinburgh and the British Geological Survey, supported by a Marie Skłodowska-Curie Fellowship.
+Data scientist and researcher specialising in **AI and machine learning for Earth sciences**, with expertise in **geospatial data workflows**, **scientific computing**, **data-driven modelling** and **interdisciplinary research**. Currently completing a **PhD in AI-based earthquake monitoring and forecasting** at the University of Edinburgh and the British Geological Survey, supported by a Marie Skłodowska-Curie Fellowship.
 
 #### 🔍 Research interests
 - AI & machine learning for geosciences
